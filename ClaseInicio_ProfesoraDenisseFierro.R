@@ -9,3 +9,6 @@
 15*6
 #Division
 5/2
+
+#Raiz cuadrada
+sqrt(36)
