@@ -7,3 +7,5 @@
 25-30
 #Multiplicacion
 15*6
+#Division
+5/2
