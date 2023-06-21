@@ -9,3 +9,6 @@
 15*6
 #Division
 5/2
+
+#Average
+2;4;5;6
