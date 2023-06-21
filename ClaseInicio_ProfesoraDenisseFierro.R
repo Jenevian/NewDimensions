@@ -10,5 +10,8 @@
 #Division
 5/2
 
+#Raiz cuadrada
+sqrt(36)
+
 #Average
 2;4;5;6
